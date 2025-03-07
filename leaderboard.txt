@@ -1,0 +1,11 @@
+1000 AdminTester
+-200 NoobPlayer
+200 ProPlayer
+-100 StrahinjaLilic
+375 Strahinja$
+375 FinalTest
+400 MilosMilosavljevic
+-75 MikiTester
+0 AveragePlayer
+40 LeaderboardPlayer
+450 EleventPlayer
